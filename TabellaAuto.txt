@@ -1,4 +1,5 @@
 DATI			            TIPO		        STATO
+
 id			                INT		            AUTO_INCREMENT
 marca			            VARCHAR(15)	        NOTNULL
 modello			            VARCHAR(25)	        NOTNULL
