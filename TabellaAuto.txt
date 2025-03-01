@@ -1,0 +1,9 @@
+DATI			            TIPO		        STATO
+id			                INT		            AUTO_INCREMENT
+marca			            VARCHAR(15)	        NOTNULL
+modello			            VARCHAR(25)	        NOTNULL
+anno_immatricolazione	    YEAR		        NOTNULL
+n_telaio		            INT		            UNIQUE
+n_km			            INT		            NOTNULL
+condizioni		            TEXT		        NOTNULL
+colore			            VARCHAR(15)	        NULL
